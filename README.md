@@ -2,7 +2,7 @@
 
 [Citibike Story](https://public.tableau.com/views/CitiBikeChallenge_16677808034840/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-##Purpose  
+## Purpose  
 The purpose of this project was to analyze a citibike share program in New York for the month of August in 2019. Using Tableau, I created visualizations that show:
 
 How long bikes are checked out for all riders and genders.
